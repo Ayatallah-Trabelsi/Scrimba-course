@@ -1,0 +1,56 @@
+body (<--selector){
+	color(-->color of text): ...;
+	background(<--color of the bg): ..;
+
+
+display:
+-inline --> elements displayed bjnab b3adhhom
+-block --> elements displayed ta7t b3adhhom
+
+.class {
+    styling;   -----> this is instead of working with elements in css
+}
+
+comments in css ---> /* */
+
+margin-right | margin-left : auto --> the element takes all the space available on either sides.
+
+in order to center an element:
+--> display:block; --> 5ater inline allows other elements to be put on the same line as it.
+--> adjust the width: mayelzemch el element ykoun 3andou nafs el width taa browser.
+--> wfazet el margin-left/right set on auto
+
+divs are blocks by default and take up the full width.
+
+margin --> adds space outside of the div
+padding --> adds space between the content inside the div(container) and the edges of the div.
+border --> edge of the div
+
+the box model:
+->margin
+->padding
+->border
+->content
+height --> height of the entire field content
+
+text-align | flexbox(fi nafs ligne el elements --> more specifically kol element fi column)
+
+justify-content:
+start(left)
+end(right)
+center
+space-around
+space-between
+
+<img src="picture.jpg"> --> The "picture.jpg" file is located in the same folder as the current page
+<img src="images/picture.jpg"> --> The "picture.jpg" file is located in the images folder in the current folder
+
+-Flexbox --> only cares(apply changes on) about its direct children.
+
+utility class --> class for one css property 
+
+flexbox containers by default are display block
+
+a web-safe font --> font mawjouda deja fel client/user's device 
+
+border-radius: 100% --> a circle

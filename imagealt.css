@@ -1,0 +1,29 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.donkey{
+    width: 150px;
+}
+
+.card{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+    background:#ccd5ae;
+    color: black;
+    border-bottom: 6px solid #ead7c3 ;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.border{
+    border: 2px dotted blue;
+}

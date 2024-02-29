@@ -1,0 +1,22 @@
+/*.button_d{
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    color:#0f1419;
+    font-weight: bolder;
+    text-align: center;
+    padding: 8px;
+    border: 2px solid #cfd9de;
+    border-radius: 30px;  
+}   */
+button{
+    color:#0f1419;
+    background: white;
+    font-weight: bolder;
+    border:2px solid #cfd9de;
+    border-radius: 20px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 8px;
+    padding-right: 8px;
+} 
